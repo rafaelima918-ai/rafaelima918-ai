@@ -9,7 +9,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Graduando em Engenharia de Software - UniFanor Wyden
-- 📚 Em formação na mentoria Full Stack Pro da DevClub
+- 📚 Em formação na mentoria Full Stack Pro - DevClub
 - 🎯 Meta: atuar como Engenheiro de Software Full Stack
 
 ## 🛠️ Tecnologias
